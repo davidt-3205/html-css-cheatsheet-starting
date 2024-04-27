@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+    color: rgb(220, 220, 220);
+}
+
+.intro {
+    text-align: center;
+}
+
+.intro p {
+    margin: 15px 20px;
+    margin-bottom: 25px;
+}
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td {
+    border: 1px solid white;
+    padding: 10px 15px;
+    background-color: rgb(25,25,112);
+    color: rgb(220, 220, 220);
+}
+
+.table-head {
+    font-weight: bold;
+}
+
+/* Onto the actual text of the page */ 
+
+
+body .indepth-command {
+    border-bottom: 1px solid white;
+    border-collapse: collapse;
+}
+
+.indepth-command h1 {
+    text-align: center;
+}
+
+.indepth-command .heading-content {
+    text-align: center;
+}
+
+.indepth-command h2 {
+    text-indent: 20px;
+    margin-top: 20px;
+}
+
+.content {
+    text-indent: 40px;
+}
+
+
+
+
+/* time for the footer */
+
+footer {
+    text-align: center;
+    margin: 10px 30px;
+    margin-bottom: 50px;
+}
